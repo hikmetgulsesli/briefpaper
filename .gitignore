@@ -43,3 +43,4 @@ coverage/
 .cache/
 .temp/
 .env
+.setfarm-step-output.txt
